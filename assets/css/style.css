@@ -1,0 +1,16 @@
+.my-card{
+    border-radius: 35px;
+    box-shadow: 0px 4px 15px rgba(0,0,0,0.7);
+    overflow: hidden;
+
+}
+.heading{
+    border: none;
+    background-color: rgb(53, 17, 180);
+    color: aliceblue;
+}
+li:hover{
+    
+    background-color: palevioletred;
+    
+}
